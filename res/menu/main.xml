@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_prefs"
+        android:icon="@drawable/abc_ic_menu_moreoverflow_normal_holo_light"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Settings">
+    </item>
+
+</menu>
